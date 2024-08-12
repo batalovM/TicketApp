@@ -1,0 +1,30 @@
+[
+  {
+    "carrier": "Carrier A",
+    "departure": "Владивосток",
+    "arrival": "Тель-Авив",
+    "flight_time": 360,
+    "price": 13500
+  },
+  {
+    "carrier": "Carrier B",
+    "departure": "Владивосток",
+    "arrival": "Тель-Авив",
+    "flight_time": 350,
+    "price": 17500
+  },
+  {
+    "carrier": "Carrier A",
+    "departure": "Владивосток",
+    "arrival": "Тель-Авив",
+    "flight_time": 420,
+    "price": 14000
+  },
+  {
+    "carrier": "Carrier C",
+    "departure": "Владивосток",
+    "arrival": "Тель-Авив",
+    "flight_time": 320,
+    "price": 15200
+  }
+]
