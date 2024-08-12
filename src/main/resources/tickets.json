@@ -1,30 +1,76 @@
 [
   {
-    "carrier": "Carrier A",
+    "carrier": "Hainan Airlines",
     "departure": "Владивосток",
     "arrival": "Тель-Авив",
-    "flight_time": 360,
-    "price": 13500
+    "flight_time": 1835,
+    "price": 144663
   },
   {
-    "carrier": "Carrier B",
+    "carrier": "Hainan Airlines",
     "departure": "Владивосток",
     "arrival": "Тель-Авив",
-    "flight_time": 350,
-    "price": 17500
+    "flight_time": 1835,
+    "price": 150969
   },
   {
-    "carrier": "Carrier A",
+    "carrier": "S7",
     "departure": "Владивосток",
     "arrival": "Тель-Авив",
-    "flight_time": 420,
-    "price": 14000
+    "flight_time": 1590,
+    "price": 193079
   },
   {
-    "carrier": "Carrier C",
+    "carrier": "S7",
     "departure": "Владивосток",
     "arrival": "Тель-Авив",
-    "flight_time": 320,
-    "price": 15200
-  }
+    "flight_time": 2060,
+    "price": 193079
+  },
+  {
+    "carrier": "S7",
+    "departure": "Владивосток",
+    "arrival": "Тель-Авив",
+    "flight_time": 2060,
+    "price": 194984
+  },
+  {
+    "carrier": "S7",
+    "departure": "Владивосток",
+    "arrival": "Тель-Авив",
+    "flight_time": 1790,
+    "price": 213762
+  },
+  {
+  "carrier": "Hainan Airlines",
+  "departure": "Владивосток",
+  "arrival": "Тель-Авив",
+  "flight_time": 1835,
+  "price": 226391
+},
+  {
+  "carrier": "Hainan Airlines",
+  "departure": "Владивосток",
+  "arrival": "Тель-Авив",
+  "flight_time": 1835,
+  "price": 239257
+},{
+  "carrier": "S7",
+  "departure": "Владивосток",
+  "arrival": "Тель-Авив",
+  "flight_time": 1555,
+  "price": 275922
+},{
+  "carrier": "S7",
+  "departure": "Владивосток",
+  "arrival": "Тель-Авив",
+  "flight_time": 2060,
+  "price": 287018
+},{
+  "carrier": "S7",
+  "departure": "Владивосток",
+  "arrival": "Тель-Авив",
+  "flight_time": 2060,
+  "price": 291067
+}
 ]
